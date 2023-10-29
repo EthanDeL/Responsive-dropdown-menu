@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+:root{
+    /* COLORS */
+    --navbar-background: hsla(125, 66%, 69%, 0.801); 
+    --red-color: hsl(0, 82%, 49%); 
+    --yellow-color: hsl(60, 96%, 49%);
+    --green-color: hsl(110, 88%, 48%);
+    --purple-color: hsl(239, 46%, 49%);
+    --blue-color: hsl(226, 77%, 48%); 
+    --black-color: hsl(0, 0%, 3%); 
+    --white-color: hsl(0, 0%, 100%); 
+}
+
+*{
+    margin: 0; padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    outline: none;
+}
+
+body{
+    font-family: 'Poppins';
+    background-image: url("../image/2305.w056.n005.240B.p15.240.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+/* NAVBAR */
+
+   
+    /* BREAKPOINT */
